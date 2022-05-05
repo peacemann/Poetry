@@ -1,2 +1,2 @@
 This is file2
-This is master upgrade
+This is an upgrade
